@@ -127,7 +127,7 @@ header {
     padding: 105px 0 96px 0;
     background-color: #fff;
 }
-.advantages .advantages__btn {
+.advantages__btn {
     display: block;
     margin: 0 auto;
     width: 113px;
@@ -138,12 +138,13 @@ header {
     font-size: 11px;
     border: none;
 }
-.advantages .advantages__text {
+.advantages__text {
     text-align: center;
     color:#222222;
     font-size:38px;
     text-transform: uppercase;
-    margin-top: 57px;
+    margin-top: 38px;
+    line-height: 38px;
 }
 .advantages .advantages__block {
     display: flex;
